@@ -1,0 +1,34 @@
+[
+    {
+        "id_caso": "CASO-001",
+        "veredicto": "Denegado",
+        "articulo_citado": "Artículo 2",
+        "monto_aprobado": 0.0,
+        "fundamento": "Se trata de un robo parcial (accesorios removibles), no de un robo total del vehículo. La póliza solo cubre el robo total (Artículo 1) y excluye expresamente el robo de accesorios como radios y espejos (Artículo 2).",
+        "fecha": "2026-10-18T10:37:50"
+    },
+    {
+        "id_caso": "CASO-005",
+        "veredicto": "Escalado",
+        "articulo_citado": "Artículo 7",
+        "monto_aprobado": 0.0,
+        "fundamento": "Incendio o fenómeno natural no cubierto salvo cobertura adicional; se deriva a revisor humano para verificar si existe.",
+        "fecha": "2026-10-18T10:40:02"
+    },
+    {
+        "id_caso": "CASO-002",
+        "veredicto": "Aprobado",
+        "articulo_citado": "Artículo 1",
+        "monto_aprobado": 12000.0,
+        "fundamento": "Se trata de un robo total del vehículo, cubierto por el Artículo 1. Monto aprobado $12000.",
+        "fecha": "2026-10-18T10:42:47"
+    },
+    {
+        "id_caso": "CASO-004",
+        "veredicto": "Escalado",
+        "articulo_citado": "Artículo 8",
+        "monto_aprobado": 0.0,
+        "fundamento": "Monto $16000 supera el tope de $10000 del Artículo 3; el Artículo 8 exige revisor humano.",
+        "fecha": "2026-10-18T11:01:15"
+    }
+]
