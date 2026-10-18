@@ -1,0 +1,37 @@
+[
+  {
+    "id": "CASO-001",
+    "tipo": "Robo parcial",
+    "descripcion": "Robo de radio y panel estéreo en estacionamiento comercial.",
+    "monto_estimado": 450,
+    "dias_desde_siniestro": 2
+  },
+  {
+    "id": "CASO-002",
+    "tipo": "Robo total",
+    "descripcion": "Sustracción completa del automóvil en vía pública con violencia.",
+    "monto_estimado": 12000,
+    "dias_desde_siniestro": 1
+  },
+  {
+    "id": "CASO-003",
+    "tipo": "Colisión",
+    "descripcion": "Choque por alcance en autopista central con daños frontales.",
+    "monto_estimado": 7500,
+    "dias_desde_siniestro": 3
+  },
+  {
+    "id": "CASO-004",
+    "tipo": "Colisión severa",
+    "descripcion": "Colisión múltiple con deformación de chasis.",
+    "monto_estimado": 16000,
+    "dias_desde_siniestro": 4
+  },
+  {
+    "id": "CASO-005",
+    "tipo": "Incendio",
+    "descripcion": "Vehículo incendiado en estacionamiento subterráneo sin causa aparente.",
+    "monto_estimado": 9000,
+    "dias_desde_siniestro": 5
+  }
+]
